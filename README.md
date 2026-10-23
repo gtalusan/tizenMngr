@@ -58,6 +58,7 @@ Research findings live in [docs/](docs/); start at
 | [09 — System Bus Surface](docs/attack-surface/09-system-bus-surface.md) | Aug 2026 live bus sweep (reach vs escalate) |
 | [10 — App Launch Pool](docs/attack-surface/10-app-launch-pool.md) | Pool wire format, SMACK gate, uid-200 falsification, litewebappservice lead |
 | [11 — Status & Plan](docs/status/11-status.md) | Research status, verdicts, next lanes |
+| [12 — Q90T Reference](docs/attack-surface/12-q90t-reference.md) | Tizen 5.5 twin device: source-verified backports, config gates, live driver-vuln verdicts |
 | [Tint Fix](docs/fixes/tint-fix.md) | NVRAM white-balance recovery (pink tint) |
 
 Planned/future work lives in [docs/planned/](docs/planned/).

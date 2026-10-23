@@ -22,6 +22,7 @@ Master catalog for the UN55MU6290 (Tizen 3.0, FW 1410) research. Start with
 | [08 — JIT Sandbox](attack-surface/08-jit.md) | V8 JIT shellcode primitive + syscall whitelist |
 | [09 — System Bus Surface](attack-surface/09-system-bus-surface.md) | Aug 2026 live bus sweep (reach vs escalate) |
 | [10 — App Launch Pool](attack-surface/10-app-launch-pool.md) | Pool wire format, SMACK gate, uid-200 falsification, litewebappservice lead |
+| [12 — Q90T Reference](attack-surface/12-q90t-reference.md) | Tizen 5.5 twin device: source-verified backports, config gates, live driver-vuln verdicts |
 
 ## Status / fixes / planned
 
